@@ -1,0 +1,18 @@
+Election Results
+---------------------
+4324001
+---------------------
+Candidate
+Cordin       1.0%
+Correy      16.0%
+Khan        51.0%
+Li          11.0%
+O'Tooley     2.0%
+Seth         1.0%
+Torres       8.0%
+Vestal       9.0%
+dtype: object
+---------------------
+Khan
+---------------------
+

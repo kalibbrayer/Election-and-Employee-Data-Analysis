@@ -16,7 +16,7 @@ candidate_percent=candidate_percent.astype(str)
 for i in range(len(candidate_percent)):
     candidate_percent[i]=candidate_percent[i]+"%" 
 with open('result.txt','w') as f:  
-    print("Election Results\n---------------------\n"+str(total_votes)+"\n---------------------\n"+str(candidate_percent)+"\n---------------------\n"+str(winner)+"\n---------------------\n", file=f)
+    print("Election Results\n---------------------\n"+"Total Votes:"+str(total_votes)+"\n---------------------\n"+str(candidate_percent)+"\n---------------------\n"+"Winner:"+str(winner)+"\n---------------------\n", file=f)
     
 
 
